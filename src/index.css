@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./components/Header/Header.css";
+@import "./components/Header/CartButton.css";
+@import "./components/Meals/MealsSummary.css";
+@import "./components/Meals/AvailableMeals.css";
+@import "./components/Meals/MealItem/MealItemForm.css";
